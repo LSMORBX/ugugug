@@ -1,0 +1,1 @@
+var ds=document.getElementById("siteByDigistorm");(!ds)?console.log("err no el: siteByDigistorm"):ds.innerHTML='<a href="https://www.digistorm.com" target="_blank">site by Digistorm</a>';
